@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14927" started-at="2021-04-23T06:17:00Z" finished-at="2021-04-23T06:17:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14927" started-at="2021-04-23T06:17:00Z" finished-at="2021-04-23T06:17:15Z">
+      <class name="com.poml.tests.infor.ResourcePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.poml.tests.infor.ResourcePageTest@57f23557]" name="setUp" is-config="true" duration-ms="3786" started-at="2021-04-23T06:17:00Z" finished-at="2021-04-23T06:17:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyWebinarNameOnResourcePage()[pri:0, instance:com.poml.tests.infor.ResourcePageTest@57f23557]" name="verifyWebinarNameOnResourcePage" duration-ms="11028" started-at="2021-04-23T06:17:04Z" finished-at="2021-04-23T06:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebinarNameOnResourcePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.poml.tests.infor.ResourcePageTest@57f23557]" name="tearDown" is-config="true" duration-ms="94" started-at="2021-04-23T06:17:15Z" finished-at="2021-04-23T06:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.poml.tests.infor.ResourcePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
